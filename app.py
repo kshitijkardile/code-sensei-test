@@ -4,4 +4,4 @@ def loop():
     return i
 
 def emp():
-    print("function is empty")
+    return None
