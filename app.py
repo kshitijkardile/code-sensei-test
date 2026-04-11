@@ -3,5 +3,5 @@ def loop():
         print(i)
     return i
 
-def emp():
+def use():
     return None
